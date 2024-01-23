@@ -1,3 +1,4 @@
+import "dotenv/config"
 import { ServerApp } from "./presentation/server";
 
 (async () => {
